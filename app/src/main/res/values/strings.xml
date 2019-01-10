@@ -1,0 +1,21 @@
+<resources>
+    <string name="app_name" translatable="false">Ass2</string>
+    <string name="name">Name</string>
+    <string name="login">Login</string>
+    <string name="WhatToDo">What do you want to do ?</string>
+    <string name="CreateAGroup">CREATE A GROUP</string>
+    <string name="LeaveTheGroup">Leave the group</string>
+    <string name="ViewGroups">View groups</string>
+    <string name="SeeMap">See the map</string>
+    <string name="create">Create</string>
+    <string name="CurrentGroups">Current Groups</string>
+    <string name="back">Back</string>
+    <string name="ClickToJoin">Click to join a group</string>
+    <string name="yourGroup">Your group : </string>
+    <string name="noGroup">No group</string>
+
+    <string-array name="language_option">
+        <item>English</item>
+        <item>Swedish</item>
+    </string-array>
+</resources>

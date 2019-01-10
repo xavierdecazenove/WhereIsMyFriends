@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="name">Namn</string>
+    <string name="login">Logga in</string>
+    <string name="WhatToDo">Vad vill du göra ?</string>
+    <string name="CreateAGroup">SKAPA EN GRUPP</string>
+    <string name="LeaveTheGroup">"Lämna gruppen "</string>
+    <string name="ViewGroups">Visa grupper</string>
+    <string name="SeeMap">"Se kartan "</string>
+    <string name="create">Skapa</string>
+    <string name="CurrentGroups">Nuvarande grupper</string>
+    <string name="back">Tillbaka</string>
+    <string name="ClickToJoin">Klicka för att gå med i en grupp</string>
+    <string name="yourGroup">Din grupp : </string>
+    <string name="noGroup">Ingen grupp</string>
+
+
+    <string-array name="language_option">
+        <item>Engelsk</item>
+        <item>Svenska</item>
+    </string-array>
+</resources>
